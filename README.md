@@ -93,9 +93,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![S46@$u.#404](https://telegra.ph/file/df002f5c5f138a17eb2a4.jpg?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[sunaif-adkar](https://github.com/sunaif-adkar)  | [S46@$u.#404](https://wa.me/message/N2MKXYOCTXS6K1) | [SaMods](https://wa.me/message/N2MKXYOCTXS6K1)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
