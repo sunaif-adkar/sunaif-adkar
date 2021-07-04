@@ -1,15 +1,16 @@
 
+
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/555d3c58204893763b839.jpg" width="190" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sabots" src="https://img.shields.io/badge/SaBots-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/sunaif-adkar"><img title="Author" src="https://img.shields.io/badge/sunaif-adkar/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/sunaif-adkar">Sunaif-adkar</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +20,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://githun.com/sunaif-adkar">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
