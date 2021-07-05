@@ -49,8 +49,6 @@ Click WA logo to Join Support Group 👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
      </div>
 <br>
-<br >
-``` 
   
 ## The Hard Method
 ```js
