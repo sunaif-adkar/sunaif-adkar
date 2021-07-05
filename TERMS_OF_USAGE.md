@@ -1,4 +1,4 @@
-# **WHATSASENA** TERMS OF USAGE
+# **sa-bots** TERMS OF USAGE
 
 Last Updated: **GMT-3 22/03/2021**
 
