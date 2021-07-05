@@ -18,6 +18,8 @@ Project created by <a href="https://github.com/sunaif-adkar">Sunaif-adkar</a> to
 </p>
 
 ----
+## [[⚠️DONT DEPLOY NOW MAY BE YOUR YOUR ACCOUNT WILL BAN⚠️]]
+<div align="center">
 
   <p align="center">
   <a href="httsp://githun.com/sunaif-adkar">
@@ -36,10 +38,7 @@ Click WA logo to Join Support Group 👇
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/message/N2MKXYOCTXS6K1)
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunaif-adkar&repo=sunaif-adkart&theme=nightowl)](https://github.com/sunaif-adkar/sunaif-adkar)
-  </div>
-    
+          
 ## Setup
 <div align="center">
 
@@ -51,9 +50,6 @@ Click WA logo to Join Support Group 👇
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
 ``` 
   
 ### The Hard Method
@@ -62,8 +58,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/sunaif-adkar/sunaif-adkar.git
+$ cd sunaif-adkar
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -72,8 +68,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/sunaif-adkar/sunaif-adkar.git
+$ cd sunaif-adkar
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -86,7 +82,7 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
+Absolutely, SaBots executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
