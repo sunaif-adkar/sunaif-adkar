@@ -21,8 +21,6 @@ Project created by <a href="https://github.com/sunaif-adkar">Sunaif-adkar</a> to
 ## [[⚠️DONT DEPLOY NOW MAY BE YOUR YOUR ACCOUNT WILL BAN⚠️]]
 <div align="center">
 
-
-
   <p align="center">
   <a href="httsp://githun.com/sunaif-adkar">
     <img src="https://img.shields.io/github/repo-size/sunaif-adkar/sunaif-adkar?color=green&label=Repo%20total%20size&style=plastic">
@@ -54,7 +52,7 @@ Click WA logo to Join Support Group 👇
 <br >
 ``` 
   
-### The Hard Method
+## The Hard Method
 ```js
 GET QR
 $ apt update
@@ -80,7 +78,7 @@ $ node bot.js
 ```
 
 
-### ⚠️ Warning! 
+## ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -102,5 +100,5 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
-### Disclaimer
+## Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
