@@ -95,7 +95,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![S46@$u.#404](https://telegra.ph/file/df002f5c5f138a17eb2a4.jpg?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
 ----|----|----
 [sunaif-adkar](https://github.com/sunaif-adkar)  | [S46@$u.#404](https://wa.me/message/N2MKXYOCTXS6K1) | [SaMods](https://wa.me/message/N2MKXYOCTXS6K1)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+CREATER AND FOUNDER | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
