@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/555d3c58204893763b839.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="wabot-SA" src="https://img.shields.io/badge/sunaif-adkar-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/sunaif-adkar">sunaif-sir</a> to m
   <a href="httsp://github.com/sunaif-adkar/sunaif-adkar">
     <img src="https://img.shields.io/github/repo-size/sunaif-adkar/sunaif-adkar?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/sunaif-adkar/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar/followers"><img title="Followers" src="https://img.shields.io/github/followers/sunaif-adkar?color=blue&style=flat-square"></a>
 <a href="https://github.com/sunaif-adkar/sunaif-adkar/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sunaif-adkar?color=blue&style=flat-square"></a>
 <a href="https://github.com/sunaif-adkar/sunaif-adkar/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sunaif-adkar/sunaif-adkar?color=blue&style=flat-square"></a>
 <a href="https://github.com/sunaif-adkar/sunaif-adkar/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sunaif-adkar/sunaif-adkar?label=Watchers&color=blue&style=flat-square"></a>
