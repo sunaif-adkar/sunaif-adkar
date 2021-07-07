@@ -82,7 +82,11 @@ $ node bot.js
 ## 🎸 MUSIC OR BGM SUPPORTS🎼
 <div align="center">
 
-  ### VKD48 & ARAKKAL CHEGUTHAN
+  VKD48 & ARAKKAL CHEGUTHAN
+
+
+
+
 
 
 ### ⚠️ Warning! 
