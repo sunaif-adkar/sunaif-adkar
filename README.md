@@ -85,6 +85,10 @@ $ node bot.js
 ```
 ```js
  [and my all dear friends]
+     </dev>
+<br>
+ <br >
+
 
 ### ⚠️ Warning! 
 ```
