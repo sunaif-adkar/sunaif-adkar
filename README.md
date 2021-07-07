@@ -82,8 +82,8 @@ $ node bot.js
 ### 🎸MISIC OR BGM SUPPORTS🎼
 ```
  ARAKKAL CHEGUTHAN & VKD48
-
-'''js
+```
+```js
  [and my all dear friends]
 
 ### ⚠️ Warning! 
