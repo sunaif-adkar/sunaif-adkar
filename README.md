@@ -79,7 +79,12 @@ $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
+### 🎸MISIC OR BGM SUPPORTS🎼
+```
+ ARAKKAL CHEGUTHAN & VKD48
 
+'''js
+ [and my all dear friends]
 
 ### ⚠️ Warning! 
 ```
