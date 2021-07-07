@@ -19,10 +19,10 @@ async function whatsAsena () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('asena')}${chalk.blue.bold('myren👿')}
+        console.log(`${chalk.green.bold('asena')}${chalk.blue.bold('TEAMS❣️👿')}
 ${chalk.white.italic('AsenaString Kodu Alıcı')}
 
-${chalk.blue.italic('ℹ️ CONNECTING TO WHATSAPP 🤹BY SUNAIF ADKAR 😉.')}`);
+${chalk.blue.italic('ℹ️ CONNECTING TO WHATSAPP 🤹 COPYRIGHT RESERVE TO ASENA😉.')}`);
     });
     
 
